@@ -1,2 +1,6 @@
 sdasd
+<<<<<<< HEAD
 jkk
+=======
+asd
+>>>>>>> c409daf2d7be5339280f01deedc9100298d0289e
